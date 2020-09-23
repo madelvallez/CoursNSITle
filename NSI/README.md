@@ -1,2 +1,2 @@
-###Chap1:### Récursivité
-###Chap2:### Modularité
+Chap1: Récursivité \n
+Chap2: Modularité \n
