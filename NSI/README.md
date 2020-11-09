@@ -7,3 +7,5 @@ Chap3: Programation orienté objet
 Chap4: Mise au point de programmes
 
 Chap5: Programmation fonctionnelle
+
+Chap6: Structures linéaires
