@@ -11,3 +11,5 @@ Chap4: Mise au point de programmes
 Chap5: Programmation fonctionnelle
 
 Chap6: Structures linéaires
+
+Chap8: Arbres binaires
