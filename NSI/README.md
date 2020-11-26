@@ -13,3 +13,5 @@ Chap5: Programmation fonctionnelle
 Chap6: Structures linéaires
 
 Chap8: Arbres binaires
+
+Chap9: Arbres binaires de recherche
