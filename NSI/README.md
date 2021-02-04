@@ -18,4 +18,4 @@ Chap9: Arbres binaires de recherche
 
 Chap10: Graphes
 
-Chap11: Diviser-Régner
+Chap12: Diviser-Régner
